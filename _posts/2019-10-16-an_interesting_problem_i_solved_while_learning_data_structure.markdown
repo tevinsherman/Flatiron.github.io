@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "An interesting problem I solved while learning Data Structure"
-date:       2019-10-16 21:30:55 +0000
+date:       2019-10-16 17:30:56 -0400
 permalink:  an_interesting_problem_i_solved_while_learning_data_structure
 ---
 
